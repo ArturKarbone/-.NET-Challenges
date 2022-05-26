@@ -1,0 +1,1349 @@
+{
+    "TournamentId": 749,
+    "Schedule": [
+        {
+            "GameNumber": "1",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "FRA",
+            "GuestTeam": "SVK",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "13",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "2",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "USA",
+            "GuestTeam": "LAT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "13",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "3",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "GER",
+            "GuestTeam": "CAN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "13",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "4",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "FIN",
+            "GuestTeam": "NOR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "13",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "5",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "DEN",
+            "GuestTeam": "KAZ",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "6",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "SWE",
+            "GuestTeam": "AUT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "7",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SUI",
+            "GuestTeam": "ITA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "8",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "CZE",
+            "GuestTeam": "GBR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "9",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SVK",
+            "GuestTeam": "GER",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "10",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "LAT",
+            "GuestTeam": "FIN",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "14",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "11",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "ITA",
+            "GuestTeam": "CAN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "12",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "NOR",
+            "GuestTeam": "GBR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "13",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "FRA",
+            "GuestTeam": "KAZ",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "14",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "AUT",
+            "GuestTeam": "USA",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "15",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "DEN",
+            "GuestTeam": "SUI",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "16",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "CZE",
+            "GuestTeam": "SWE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "15",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "17",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SVK",
+            "GuestTeam": "CAN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "16",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "18",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "LAT",
+            "GuestTeam": "NOR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "16",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "19",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "FRA",
+            "GuestTeam": "GER",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "16",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "20",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "FIN",
+            "GuestTeam": "USA",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "16",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "21",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "ITA",
+            "GuestTeam": "DEN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "17",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "22",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "CZE",
+            "GuestTeam": "AUT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "17",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "23",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SUI",
+            "GuestTeam": "KAZ",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "17",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "24",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "SWE",
+            "GuestTeam": "GBR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "17",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "25",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "FRA",
+            "GuestTeam": "ITA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "WED",
+                "Day": "18",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "26",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "NOR",
+            "GuestTeam": "AUT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "WED",
+                "Day": "18",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "27",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SUI",
+            "GuestTeam": "SVK",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "WED",
+                "Day": "18",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "28",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "FIN",
+            "GuestTeam": "SWE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "WED",
+                "Day": "18",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "29",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "GER",
+            "GuestTeam": "DEN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "19",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "30",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "GBR",
+            "GuestTeam": "USA",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "19",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "31",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "CAN",
+            "GuestTeam": "KAZ",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "19",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "32",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "CZE",
+            "GuestTeam": "LAT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "19",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "33",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "GER",
+            "GuestTeam": "ITA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "20",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "34",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "GBR",
+            "GuestTeam": "FIN",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "20",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "35",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "KAZ",
+            "GuestTeam": "SVK",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "20",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "36",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "LAT",
+            "GuestTeam": "AUT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "FRI",
+                "Day": "20",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "37",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "DEN",
+            "GuestTeam": "FRA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "38",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "USA",
+            "GuestTeam": "SWE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "39",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "CAN",
+            "GuestTeam": "SUI",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "40",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "AUT",
+            "GuestTeam": "FIN",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "41",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "ITA",
+            "GuestTeam": "SVK",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "42",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "NOR",
+            "GuestTeam": "CZE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "21",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "43",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "KAZ",
+            "GuestTeam": "GER",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "22",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "44",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "GBR",
+            "GuestTeam": "LAT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "22",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "45",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SUI",
+            "GuestTeam": "FRA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "22",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "46",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "SWE",
+            "GuestTeam": "NOR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "22",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "47",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "KAZ",
+            "GuestTeam": "ITA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "23",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "48",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "USA",
+            "GuestTeam": "CZE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "23",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "49",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "CAN",
+            "GuestTeam": "DEN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "23",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "50",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "AUT",
+            "GuestTeam": "GBR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "MON",
+                "Day": "23",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "51",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "GER",
+            "GuestTeam": "SUI",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "52",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "SWE",
+            "GuestTeam": "LAT",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "12",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "53",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "SVK",
+            "GuestTeam": "DEN",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "54",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "USA",
+            "GuestTeam": "NOR",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "55",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "A",
+            "HomeTeam": "CAN",
+            "GuestTeam": "FRA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "56",
+            "PhaseId": "9",
+            "PhaseName": "Preliminary Round",
+            "GroupName": "B",
+            "HomeTeam": "FIN",
+            "GuestTeam": "CZE",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "TUE",
+                "Day": "24",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "57",
+            "PhaseId": "3",
+            "PhaseName": "Quarterfinals",
+            "GroupName": "",
+            "HomeTeam": "GER",
+            "GuestTeam": "CZE",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "26",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "58",
+            "PhaseId": "3",
+            "PhaseName": "Quarterfinals",
+            "GroupName": "",
+            "HomeTeam": "SWE",
+            "GuestTeam": "CAN",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "26",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "16",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "59",
+            "PhaseId": "3",
+            "PhaseName": "Quarterfinals",
+            "GroupName": "",
+            "HomeTeam": "SUI",
+            "GuestTeam": "USA",
+            "GLocation": {
+                "VenueCode": "HIH",
+                "LocationName": "Helsinki / Helsinki Ice Hall"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "26",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "60",
+            "PhaseId": "3",
+            "PhaseName": "Quarterfinals",
+            "GroupName": "",
+            "HomeTeam": "FIN",
+            "GuestTeam": "SVK",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "THU",
+                "Day": "26",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "61",
+            "PhaseId": "2",
+            "PhaseName": "Semifinals",
+            "GroupName": "",
+            "HomeTeam": "SF",
+            "GuestTeam": "SF",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "28",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "14",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "62",
+            "PhaseId": "2",
+            "PhaseName": "Semifinals",
+            "GroupName": "",
+            "HomeTeam": "SF",
+            "GuestTeam": "SF",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SAT",
+                "Day": "28",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "18",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "63",
+            "PhaseId": "1",
+            "PhaseName": "Bronze Medal Game",
+            "GroupName": "",
+            "HomeTeam": "L61",
+            "GuestTeam": "L62",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "29",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "15",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        },
+        {
+            "GameNumber": "64",
+            "PhaseId": "1",
+            "PhaseName": "Gold Medal Game",
+            "GroupName": "",
+            "HomeTeam": "W61",
+            "GuestTeam": "W62",
+            "GLocation": {
+                "VenueCode": "NAR",
+                "LocationName": "Tampere / Nokia Arena"
+            },
+            "DateTime": {
+                "Weekday": "SUN",
+                "Day": "29",
+                "Month": "MAY",
+                "Year": "2022",
+                "Hour": "20",
+                "Minute": "20",
+                "GMTOffset": "GMT+3"
+            }
+        }
+    ]
+}
